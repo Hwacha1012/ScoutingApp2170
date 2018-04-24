@@ -15,6 +15,38 @@
 		051FA8DD2012ED4A0039D976 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 051FA8DB2012ED4A0039D976 /* LaunchScreen.storyboard */; };
 		051FA8E82012ED4A0039D976 /* ScoutingAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051FA8E72012ED4A0039D976 /* ScoutingAppTests.swift */; };
 		051FA8F32012ED4A0039D976 /* ScoutingAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 051FA8F22012ED4A0039D976 /* ScoutingAppUITests.swift */; };
+		0526A0502013869E009E8BA8 /* InfoEnterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0526A04F2013869E009E8BA8 /* InfoEnterViewController.swift */; };
+		0526A05420138C12009E8BA8 /* backArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 0526A05320138C12009E8BA8 /* backArrow.png */; };
+		0526A057201393AC009E8BA8 /* minus.png in Resources */ = {isa = PBXBuildFile; fileRef = 0526A055201393AB009E8BA8 /* minus.png */; };
+		0526A058201393AC009E8BA8 /* plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 0526A056201393AC009E8BA8 /* plus.png */; };
+		0526A05A20139D52009E8BA8 /* forwardArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 0526A05920139D52009E8BA8 /* forwardArrow.png */; };
+		0526A05C2013A1EF009E8BA8 /* SecondInfoEnterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0526A05B2013A1EF009E8BA8 /* SecondInfoEnterViewController.swift */; };
+		0526A05E2013C56A009E8BA8 /* ThirdInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0526A05D2013C56A009E8BA8 /* ThirdInfoViewController.swift */; };
+		0526A0602017ED6E009E8BA8 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0526A05F2017ED6E009E8BA8 /* SettingsViewController.swift */; };
+		0526A062201805A0009E8BA8 /* QRCodeGeneratorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0526A061201805A0009E8BA8 /* QRCodeGeneratorViewController.swift */; };
+		0526A064201A8F32009E8BA8 /* QRCodeReaderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0526A063201A8F32009E8BA8 /* QRCodeReaderViewController.swift */; };
+		056800C72025363400F483EC /* EmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 056800C62025363400F483EC /* EmailViewController.swift */; };
+		05B312EB203794040078040B /* GHS Robotics Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 05B312EA203794040078040B /* GHS Robotics Logo.png */; };
+		05B312ED2037956D0078040B /* BackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B312EC2037956D0078040B /* BackgroundView.swift */; };
+		05B312EF203799F30078040B /* TransparentForwardArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 05B312EE203799F30078040B /* TransparentForwardArrow.png */; };
+		05B897B62040E75200D43E28 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B897B52040E75200D43E28 /* ContentView.swift */; };
+		05B897B82040E82100D43E28 /* ViewDataButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B897B72040E82100D43E28 /* ViewDataButton.swift */; };
+		05B897BE2048F53B00D43E28 /* icons8-back-arrow-96.png in Resources */ = {isa = PBXBuildFile; fileRef = 05B897BD2048F53B00D43E28 /* icons8-back-arrow-96.png */; };
+		05B99159202E6F8900362230 /* Spreadsheet.csv in Resources */ = {isa = PBXBuildFile; fileRef = 05B99158202E6F8800362230 /* Spreadsheet.csv */; };
+		05B9915D202F41D600362230 /* SampleSpreadsheetNew.csv in Resources */ = {isa = PBXBuildFile; fileRef = 05B9915C202F41D500362230 /* SampleSpreadsheetNew.csv */; };
+		05B99161202F429300362230 /* SpreadsheetTestcopy.txt in Resources */ = {isa = PBXBuildFile; fileRef = 05B99160202F429300362230 /* SpreadsheetTestcopy.txt */; };
+		05B99163202F430200362230 /* SpreadsheetTestcopy.csv in Resources */ = {isa = PBXBuildFile; fileRef = 05B99162202F430200362230 /* SpreadsheetTestcopy.csv */; };
+		05B99167202F437200362230 /* Spreadsheetcopy2.csv in Resources */ = {isa = PBXBuildFile; fileRef = 05B99166202F437100362230 /* Spreadsheetcopy2.csv */; };
+		05B99169202F43CD00362230 /* SampleSpreadsheetcopy3.csv in Resources */ = {isa = PBXBuildFile; fileRef = 05B99168202F43CD00362230 /* SampleSpreadsheetcopy3.csv */; };
+		05B9916B202F444200362230 /* Spreadsheet2.txt in Resources */ = {isa = PBXBuildFile; fileRef = 05B9916A202F444200362230 /* Spreadsheet2.txt */; };
+		05B9916D202F445A00362230 /* Spreadsheet2.csv in Resources */ = {isa = PBXBuildFile; fileRef = 05B9916C202F445A00362230 /* Spreadsheet2.csv */; };
+		05B9916F202F547C00362230 /* Email2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05B9916E202F547C00362230 /* Email2ViewController.swift */; };
+		05BA1744202129C800D6611E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 05BA1743202129C700D6611E /* GoogleService-Info.plist */; };
+		05BA7080207443F200F4096E /* PitScouting2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05BA707F207443F100F4096E /* PitScouting2ViewController.swift */; };
+		05BA70822075BBD400F4096E /* Spreadsheet2 copy.csv in Resources */ = {isa = PBXBuildFile; fileRef = 05BA70812075BBD400F4096E /* Spreadsheet2 copy.csv */; };
+		05D9D309205C875900098B04 /* PitScoutingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D9D308205C875900098B04 /* PitScoutingViewController.swift */; };
+		05F6FA71201AA40000591E18 /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05F6FA70201AA40000591E18 /* DataViewController.swift */; };
+		05FD553D201D050A005CFE68 /* TransparentBackArrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 05FD553C201D0509005CFE68 /* TransparentBackArrow.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +81,38 @@
 		051FA8EE2012ED4A0039D976 /* ScoutingAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ScoutingAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		051FA8F22012ED4A0039D976 /* ScoutingAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScoutingAppUITests.swift; sourceTree = "<group>"; };
 		051FA8F42012ED4A0039D976 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0526A04F2013869E009E8BA8 /* InfoEnterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoEnterViewController.swift; sourceTree = "<group>"; };
+		0526A05320138C12009E8BA8 /* backArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backArrow.png; sourceTree = "<group>"; };
+		0526A055201393AB009E8BA8 /* minus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = minus.png; sourceTree = "<group>"; };
+		0526A056201393AC009E8BA8 /* plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus.png; sourceTree = "<group>"; };
+		0526A05920139D52009E8BA8 /* forwardArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = forwardArrow.png; sourceTree = "<group>"; };
+		0526A05B2013A1EF009E8BA8 /* SecondInfoEnterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondInfoEnterViewController.swift; sourceTree = "<group>"; };
+		0526A05D2013C56A009E8BA8 /* ThirdInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdInfoViewController.swift; sourceTree = "<group>"; };
+		0526A05F2017ED6E009E8BA8 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		0526A061201805A0009E8BA8 /* QRCodeGeneratorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeGeneratorViewController.swift; sourceTree = "<group>"; };
+		0526A063201A8F32009E8BA8 /* QRCodeReaderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QRCodeReaderViewController.swift; sourceTree = "<group>"; };
+		056800C62025363400F483EC /* EmailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailViewController.swift; sourceTree = "<group>"; };
+		05B312EA203794040078040B /* GHS Robotics Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "GHS Robotics Logo.png"; sourceTree = "<group>"; };
+		05B312EC2037956D0078040B /* BackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundView.swift; sourceTree = "<group>"; };
+		05B312EE203799F30078040B /* TransparentForwardArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TransparentForwardArrow.png; sourceTree = "<group>"; };
+		05B897B52040E75200D43E28 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		05B897B72040E82100D43E28 /* ViewDataButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDataButton.swift; sourceTree = "<group>"; };
+		05B897BD2048F53B00D43E28 /* icons8-back-arrow-96.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-back-arrow-96.png"; sourceTree = "<group>"; };
+		05B99158202E6F8800362230 /* Spreadsheet.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Spreadsheet.csv; sourceTree = "<group>"; };
+		05B9915C202F41D500362230 /* SampleSpreadsheetNew.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SampleSpreadsheetNew.csv; sourceTree = "<group>"; };
+		05B99160202F429300362230 /* SpreadsheetTestcopy.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SpreadsheetTestcopy.txt; sourceTree = "<group>"; };
+		05B99162202F430200362230 /* SpreadsheetTestcopy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SpreadsheetTestcopy.csv; sourceTree = "<group>"; };
+		05B99166202F437100362230 /* Spreadsheetcopy2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Spreadsheetcopy2.csv; path = ScoutingApp/Spreadsheetcopy2.csv; sourceTree = "<group>"; };
+		05B99168202F43CD00362230 /* SampleSpreadsheetcopy3.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SampleSpreadsheetcopy3.csv; sourceTree = "<group>"; };
+		05B9916A202F444200362230 /* Spreadsheet2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Spreadsheet2.txt; path = ScoutingApp/Spreadsheet2.txt; sourceTree = "<group>"; };
+		05B9916C202F445A00362230 /* Spreadsheet2.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Spreadsheet2.csv; path = ScoutingApp/Spreadsheet2.csv; sourceTree = "<group>"; };
+		05B9916E202F547C00362230 /* Email2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Email2ViewController.swift; sourceTree = "<group>"; };
+		05BA1743202129C700D6611E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		05BA707F207443F100F4096E /* PitScouting2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PitScouting2ViewController.swift; sourceTree = "<group>"; };
+		05BA70812075BBD400F4096E /* Spreadsheet2 copy.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Spreadsheet2 copy.csv"; path = "ScoutingApp/Spreadsheet2 copy.csv"; sourceTree = "<group>"; };
+		05D9D308205C875900098B04 /* PitScoutingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PitScoutingViewController.swift; sourceTree = "<group>"; };
+		05F6FA70201AA40000591E18 /* DataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
+		05FD553C201D0509005CFE68 /* TransparentBackArrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TransparentBackArrow.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +143,14 @@
 		051FA8C32012ED4A0039D976 = {
 			isa = PBXGroup;
 			children = (
+				05B9915C202F41D500362230 /* SampleSpreadsheetNew.csv */,
+				05B99160202F429300362230 /* SpreadsheetTestcopy.txt */,
+				05B99162202F430200362230 /* SpreadsheetTestcopy.csv */,
+				05B99166202F437100362230 /* Spreadsheetcopy2.csv */,
+				05B99168202F43CD00362230 /* SampleSpreadsheetcopy3.csv */,
+				05B9916A202F444200362230 /* Spreadsheet2.txt */,
+				05B9916C202F445A00362230 /* Spreadsheet2.csv */,
+				05BA70812075BBD400F4096E /* Spreadsheet2 copy.csv */,
 				051FA8CE2012ED4A0039D976 /* ScoutingApp */,
 				051FA8E62012ED4A0039D976 /* ScoutingAppTests */,
 				051FA8F12012ED4A0039D976 /* ScoutingAppUITests */,
@@ -101,11 +173,35 @@
 			children = (
 				051FA8CF2012ED4A0039D976 /* AppDelegate.swift */,
 				051FA8D12012ED4A0039D976 /* ViewController.swift */,
+				0526A04F2013869E009E8BA8 /* InfoEnterViewController.swift */,
+				0526A05B2013A1EF009E8BA8 /* SecondInfoEnterViewController.swift */,
+				0526A05D2013C56A009E8BA8 /* ThirdInfoViewController.swift */,
+				0526A05F2017ED6E009E8BA8 /* SettingsViewController.swift */,
+				0526A061201805A0009E8BA8 /* QRCodeGeneratorViewController.swift */,
+				0526A063201A8F32009E8BA8 /* QRCodeReaderViewController.swift */,
+				05F6FA70201AA40000591E18 /* DataViewController.swift */,
+				05B897B72040E82100D43E28 /* ViewDataButton.swift */,
+				05B9916E202F547C00362230 /* Email2ViewController.swift */,
+				05B312EC2037956D0078040B /* BackgroundView.swift */,
+				05D9D308205C875900098B04 /* PitScoutingViewController.swift */,
+				05BA707F207443F100F4096E /* PitScouting2ViewController.swift */,
+				05B897B52040E75200D43E28 /* ContentView.swift */,
+				05BA1743202129C700D6611E /* GoogleService-Info.plist */,
 				051FA8D32012ED4A0039D976 /* Main.storyboard */,
+				05B99158202E6F8800362230 /* Spreadsheet.csv */,
+				05B312EA203794040078040B /* GHS Robotics Logo.png */,
+				056800C62025363400F483EC /* EmailViewController.swift */,
 				051FA8D92012ED4A0039D976 /* Assets.xcassets */,
 				051FA8DB2012ED4A0039D976 /* LaunchScreen.storyboard */,
 				051FA8DE2012ED4A0039D976 /* Info.plist */,
 				051FA8D62012ED4A0039D976 /* ScoutingApp.xcdatamodeld */,
+				0526A05320138C12009E8BA8 /* backArrow.png */,
+				0526A05920139D52009E8BA8 /* forwardArrow.png */,
+				0526A055201393AB009E8BA8 /* minus.png */,
+				0526A056201393AC009E8BA8 /* plus.png */,
+				05B312EE203799F30078040B /* TransparentForwardArrow.png */,
+				05FD553C201D0509005CFE68 /* TransparentBackArrow.png */,
+				05B897BD2048F53B00D43E28 /* icons8-back-arrow-96.png */,
 			);
 			path = ScoutingApp;
 			sourceTree = "<group>";
@@ -235,9 +331,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0526A05420138C12009E8BA8 /* backArrow.png in Resources */,
+				05B99167202F437200362230 /* Spreadsheetcopy2.csv in Resources */,
+				05FD553D201D050A005CFE68 /* TransparentBackArrow.png in Resources */,
+				05BA1744202129C800D6611E /* GoogleService-Info.plist in Resources */,
+				05B99169202F43CD00362230 /* SampleSpreadsheetcopy3.csv in Resources */,
+				05B99163202F430200362230 /* SpreadsheetTestcopy.csv in Resources */,
+				05B9915D202F41D600362230 /* SampleSpreadsheetNew.csv in Resources */,
+				05B99161202F429300362230 /* SpreadsheetTestcopy.txt in Resources */,
+				05B312EB203794040078040B /* GHS Robotics Logo.png in Resources */,
+				05B9916B202F444200362230 /* Spreadsheet2.txt in Resources */,
+				0526A05A20139D52009E8BA8 /* forwardArrow.png in Resources */,
+				05B9916D202F445A00362230 /* Spreadsheet2.csv in Resources */,
 				051FA8DD2012ED4A0039D976 /* LaunchScreen.storyboard in Resources */,
+				05B897BE2048F53B00D43E28 /* icons8-back-arrow-96.png in Resources */,
+				05BA70822075BBD400F4096E /* Spreadsheet2 copy.csv in Resources */,
 				051FA8DA2012ED4A0039D976 /* Assets.xcassets in Resources */,
+				0526A057201393AC009E8BA8 /* minus.png in Resources */,
+				05B99159202E6F8900362230 /* Spreadsheet.csv in Resources */,
 				051FA8D52012ED4A0039D976 /* Main.storyboard in Resources */,
+				0526A058201393AC009E8BA8 /* plus.png in Resources */,
+				05B312EF203799F30078040B /* TransparentForwardArrow.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,9 +376,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0526A064201A8F32009E8BA8 /* QRCodeReaderViewController.swift in Sources */,
+				0526A05E2013C56A009E8BA8 /* ThirdInfoViewController.swift in Sources */,
+				05D9D309205C875900098B04 /* PitScoutingViewController.swift in Sources */,
+				05B897B62040E75200D43E28 /* ContentView.swift in Sources */,
+				05B312ED2037956D0078040B /* BackgroundView.swift in Sources */,
+				05F6FA71201AA40000591E18 /* DataViewController.swift in Sources */,
+				05B897B82040E82100D43E28 /* ViewDataButton.swift in Sources */,
 				051FA8D22012ED4A0039D976 /* ViewController.swift in Sources */,
+				0526A062201805A0009E8BA8 /* QRCodeGeneratorViewController.swift in Sources */,
+				0526A0602017ED6E009E8BA8 /* SettingsViewController.swift in Sources */,
+				05B9916F202F547C00362230 /* Email2ViewController.swift in Sources */,
+				0526A0502013869E009E8BA8 /* InfoEnterViewController.swift in Sources */,
 				051FA8D02012ED4A0039D976 /* AppDelegate.swift in Sources */,
 				051FA8D82012ED4A0039D976 /* ScoutingApp.xcdatamodeld in Sources */,
+				056800C72025363400F483EC /* EmailViewController.swift in Sources */,
+				0526A05C2013A1EF009E8BA8 /* SecondInfoEnterViewController.swift in Sources */,
+				05BA7080207443F200F4096E /* PitScouting2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -431,10 +559,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 5494GRQ5MD;
 				INFOPLIST_FILE = ScoutingApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = FRCRobotics2170.ScoutingApp;
+				PRODUCT_BUNDLE_IDENTIFIER = hwacha.ScoutingApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -446,10 +575,11 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 5494GRQ5MD;
 				INFOPLIST_FILE = ScoutingApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = FRCRobotics2170.ScoutingApp;
+				PRODUCT_BUNDLE_IDENTIFIER = hwacha.ScoutingApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -462,7 +592,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 3FUPSV49KK;
 				INFOPLIST_FILE = ScoutingAppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = FRCRobotics2170.ScoutingAppTests;
@@ -479,7 +609,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 3FUPSV49KK;
 				INFOPLIST_FILE = ScoutingAppTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = FRCRobotics2170.ScoutingAppTests;
@@ -495,7 +625,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 3FUPSV49KK;
 				INFOPLIST_FILE = ScoutingAppUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = FRCRobotics2170.ScoutingAppUITests;
@@ -511,7 +641,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = JQ623K3DXQ;
+				DEVELOPMENT_TEAM = 3FUPSV49KK;
 				INFOPLIST_FILE = ScoutingAppUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = FRCRobotics2170.ScoutingAppUITests;
